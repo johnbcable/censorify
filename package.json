@@ -1,0 +1,11 @@
+{
+	"author": "John Cable",
+	"name": "censorify",
+	"version": "0.1.1",
+	"description": "Cesors words out of text",
+	"main": "censortext",
+	"dependencies": {},
+	"engines": {
+		"node": "*"
+	}
+}
